@@ -1,0 +1,14 @@
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.vbprojAssemblyReference.cache
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.Form1.resources
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.vbproj.GenerateResource.cache
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.vbproj.CoreCompileInputs.cache
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\bin\Debug\AutoCheck.exe.config
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\bin\Debug\AutoCheck.exe
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\bin\Debug\AutoCheck.pdb
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.exe
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.pdb
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\bin\Debug\AutoCheck.exe.manifest
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\bin\Debug\AutoCheck.application
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.TrustInfo.xml
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.exe.manifest
+C:\Users\mvd\source\repos\AutoCheck\AutoCheck\obj\Debug\AutoCheck.application
